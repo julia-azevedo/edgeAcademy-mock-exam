@@ -1,4 +1,4 @@
-# Here you will find my solutions of Edge Academy mock exam.
+# Here you will find my solutions of Edge Academy (Maceió-AL) mock exam.
 
 Most questions solved are from Google Code Jam and codechef website.
 
